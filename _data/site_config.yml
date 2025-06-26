@@ -96,8 +96,8 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: frontpage.heading_short
-  description: frontpage.instructions_shorter
+  title: Our data for Sustainable Development Goal indicators
+  description: Is SDG Description
 frontpage_introduction_banner:
   title: frontpage.intro_title
   description: frontpage.intro_body
